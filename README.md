@@ -40,3 +40,7 @@ This project implements a real-time data pipeline using Apache Kafka, Apache Spa
 
 4. **Cassandra**:
    - Receives and stores the processed data.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
